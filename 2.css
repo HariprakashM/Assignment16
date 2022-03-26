@@ -1,0 +1,34 @@
+.f{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+#mail{
+    width: 400px;
+}
+.bol{
+    font-weight: bolder;
+}
+.checked {
+    color: orange;
+}
+#dum{
+    font-size: smaller;
+}
+.star{
+    color: red;
+}
+table{
+    width: 100%;
+}
+.boo{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }
+  td{
+      width: 15%;
+  }
